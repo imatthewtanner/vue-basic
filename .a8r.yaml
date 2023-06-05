@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifest
+  cluster_info:
+    cluster_id: 7fcfbbe4-48ee-5ea7-889d-ade6a8c38184
+    cluster_name: Matthew Tanner's cluster
